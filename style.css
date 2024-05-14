@@ -1,0 +1,43 @@
+.bg-color-brand-gold{
+    background-color: #BB890C;
+}
+.color-brand-gold{
+    color: #BB890C !important;
+}
+.bg-color-brand-blue {
+    background-color: #0d5297 !important;
+
+}
+.color-brand-blue {
+    color: #0d5297 !important;
+
+}
+.color-brand-dark-grey {
+    color: #333 !important;
+}
+.bg-color-brand-dark-grey {
+    color: #333 !important;
+}
+.navbar-nav .nav-item .nav-link.active, .navbar-nav .nav-item .nav-link:hover, .navbar-nav .nav-item .nav-link:focus, .navbar-nav .nav-item .nav-link:active{
+    color: #BB890C !important;
+}
+.navbar-nav .nav-item a{
+    color: #9b9595 !important;
+}
+
+.float-right{
+    float: right;
+}
+
+
+.min-height-50rem {
+    min-height: 50rem;
+}
+
+/* width */
+.width-22rem {
+    width: 22rem;
+}
+.width-15rem {
+    width: 15rem;
+}
